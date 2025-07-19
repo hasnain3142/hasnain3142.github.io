@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer @ <a href='https://arbisoft.com'>Arbisoft</a>
+subtitle: Incoming CS PhD Student at The University of Central Florida
 
 profile:
   align: right
