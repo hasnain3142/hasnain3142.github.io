@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming CS PhD Student at The University of Central Florida
+subtitle: CS PhD Student at The University of Central Florida
 
 profile:
   align: right
