@@ -92,8 +92,8 @@ osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: Hasnain-Ali-Arain # your profile on ResearchGate
-scholar_userid: # your Google Scholar ID
+research_gate_profile:  # your profile on ResearchGate
+scholar_userid: NQvN648AAAAJ
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -266,6 +266,7 @@ scholar:
 
   style: apa
   locale: en
+  highlight_author: "Hasnain Ali"
 
   source: /_bibliography/
   bibliography: papers.bib
