@@ -5,10 +5,10 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hasnain Ali
 middle_name: 
-last_name: Arain
+last_name:
 email: hasnain.ai3142@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to the academic portfolio of Hasnain Ali Arain. Here, you will find comprehensive information about his projects, publications, news updates, CV, and more. This site serves as a detailed showcase of his academic journey and professional accomplishments.
+  Welcome to the academic portfolio of Hasnain Ali. Here, you will find comprehensive information about his projects, publications, news updates, CV, and more. This site serves as a detailed showcase of his academic journey and professional accomplishments.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -261,8 +261,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Arain]
-  first_name: [Hasnain Ali]
+  last_name: [Ali]
+  first_name: [Hasnain]
 
   style: apa
   locale: en
