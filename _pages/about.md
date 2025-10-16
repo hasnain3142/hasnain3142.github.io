@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>📞 <a href="" style="color: inherit; text-decoration: underline; underline">+1 (650) 450 9586</a> </p>
     <p>📧 <a href="mailto:hasnain.x42@gmail.com" style="color: inherit; text-decoration: underline; underline">hasnain.x42@gmail.com</a> </p>
-    <p>🌐 <a href="https://www.linkedin.com/in/hasnain3142/" style="color: inherit; text-decoration: underline; underline">LinkedIn: hasnain3142/</a> </p>
+    <p>🌐 <a href="https://www.linkedin.com/in/hasnainx42/" style="color: inherit; text-decoration: underline; underline">LinkedIn: hasnainx42/</a> </p>
     <p>🏠 Orlando, Florida 32816</p>
 
 news: true # includes a list of news items
